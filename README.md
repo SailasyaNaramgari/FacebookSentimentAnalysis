@@ -1,4 +1,5 @@
 # FacebookSentimentAnalysis
+
 Overview
 This project performs sentiment analysis on Facebook data to gain insights into the emotional tone of posts and comments. By leveraging natural language processing (NLP) techniques, we analyze the sentiment expressed in text data to understand the overall mood and sentiment trends within the Facebook content.
 
