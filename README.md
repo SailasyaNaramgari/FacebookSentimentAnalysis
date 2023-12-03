@@ -18,3 +18,10 @@ Natural Language Processing (NLP) libraries (e.g., NLTK)
 Data visualization with Matplotlib and/or Seaborn
 
 Power BI for data visualization and dashboard creation
+
+
+Requirements and Tested Platforms :
+
+Python: JupyterNotebook , Google colab
+
+Windows (32bit/64bit): Windows 11
